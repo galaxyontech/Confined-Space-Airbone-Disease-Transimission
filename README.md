@@ -1,7 +1,9 @@
 # Confined-Space-Airbone-Disease-Transimission
 
-Copyright (c) 2020, owner: Zerui Ji 
+Copyright (c) 2020, owner: Zerui Ji, Email zj637@nyu.edu
 All rights reserved.
+
+
 
 Redistribution and use in source and binary forms, with 
 modification, are permitted provided that the following conditions are met:
@@ -13,7 +15,7 @@ modification, are permitted provided that the following conditions are met:
   this list of conditions and the following disclaimer in the documentation
   and/or other materials provided with the distribution
  
-* Any request to use this code have to have the permission from the creator of the code.
+* Any request to use this code have to have the permission from the creator of the code. 
 * Any usage of the code need to cite the owner of this code 
 
 
