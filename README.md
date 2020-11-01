@@ -1,6 +1,7 @@
 # Confined-Space-Airbone-Disease-Transimission
 
-@version 1
+@ version 1
+@ Faculty Guide Research by Professor Yuri Ustinovskiy 
 
 Aimed to bring more insight in how Covid-19 spreads in confined space envrionment such as classroom. However, the code can be easily expanded to further scope, such as dormitory, study areas, malls and etc. 
 
