@@ -1,5 +1,6 @@
 # Confined-Space-Airbone-Disease-Transimission
 
+@version 1
 Aimed to bring more insight in how Covid-19 spreads in confined space envrionment such as classroom. However, the code can be easily expanded to further scope, such as dormitory, study areas, malls and etc. 
 
 This project is designed for simulating confined space disease transimission. The induction of algorithm comes from the famous Wells-Riley Equation. There are a few 
